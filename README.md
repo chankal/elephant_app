@@ -1,1 +1,1 @@
-# elephant_app
+# elaphant_app
